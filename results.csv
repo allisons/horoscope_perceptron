@@ -1,0 +1,64 @@
+,0,1
+49,"('elements', 'meanings', 'personality', 'horoscope_words')",0.1395
+4,"('personality',)",0.137
+51,"('elements', 'personality', 'signs', 'horoscope_words')",0.1365
+2,"('planets',)",0.136
+26,"('elements', 'meanings', 'personality')",0.135
+44,"('elements', 'planets', 'meanings', 'horoscope_words')",0.135
+9,"('elements', 'personality')",0.135
+31,"('elements', 'signs', 'horoscope_words')",0.135
+12,"('planets', 'meanings')",0.1345
+15,"('planets', 'horoscope_words')",0.1345
+11,"('elements', 'horoscope_words')",0.134
+33,"('planets', 'meanings', 'signs')",0.1335
+20,"('personality', 'horoscope_words')",0.1335
+5,"('signs',)",0.133
+14,"('planets', 'signs')",0.133
+40,"('meanings', 'signs', 'horoscope_words')",0.133
+22,"('elements', 'planets', 'meanings')",0.1325
+7,"('elements', 'planets')",0.132
+18,"('meanings', 'horoscope_words')",0.132
+19,"('personality', 'signs')",0.132
+3,"('meanings',)",0.132
+45,"('elements', 'planets', 'personality', 'signs')",0.132
+56,"('meanings', 'personality', 'signs', 'horoscope_words')",0.1315
+52,"('planets', 'meanings', 'personality', 'signs')",0.1315
+38,"('meanings', 'personality', 'signs')",0.1315
+30,"('elements', 'personality', 'horoscope_words')",0.131
+25,"('elements', 'planets', 'horoscope_words')",0.131
+61,"('elements', 'meanings', 'personality', 'signs', 'horoscope_words')",0.1305
+50,"('elements', 'meanings', 'signs', 'horoscope_words')",0.1305
+41,"('personality', 'signs', 'horoscope_words')",0.13
+47,"('elements', 'planets', 'signs', 'horoscope_words')",0.13
+36,"('planets', 'personality', 'horoscope_words')",0.13
+58,"('elements', 'planets', 'meanings', 'personality', 'horoscope_words')",0.1295
+63,"('elements', 'planets', 'meanings', 'personality', 'signs', 'horoscope_words')",0.1295
+62,"('planets', 'meanings', 'personality', 'signs', 'horoscope_words')",0.1295
+43,"('elements', 'planets', 'meanings', 'signs')",0.1295
+37,"('planets', 'signs', 'horoscope_words')",0.1295
+21,"('signs', 'horoscope_words')",0.1295
+6,"('horoscope_words',)",0.129
+10,"('elements', 'signs')",0.129
+57,"('elements', 'planets', 'meanings', 'personality', 'signs')",0.129
+8,"('elements', 'meanings')",0.129
+42,"('elements', 'planets', 'meanings', 'personality')",0.1285
+13,"('planets', 'personality')",0.128
+59,"('elements', 'planets', 'meanings', 'signs', 'horoscope_words')",0.128
+23,"('elements', 'planets', 'personality')",0.128
+29,"('elements', 'personality', 'signs')",0.128
+17,"('meanings', 'signs')",0.1275
+35,"('planets', 'personality', 'signs')",0.1275
+32,"('planets', 'meanings', 'personality')",0.1265
+46,"('elements', 'planets', 'personality', 'horoscope_words')",0.1265
+16,"('meanings', 'personality')",0.1265
+34,"('planets', 'meanings', 'horoscope_words')",0.126
+1,"('elements',)",0.126
+28,"('elements', 'meanings', 'horoscope_words')",0.1255
+54,"('planets', 'meanings', 'signs', 'horoscope_words')",0.1255
+48,"('elements', 'meanings', 'personality', 'signs')",0.125
+39,"('meanings', 'personality', 'horoscope_words')",0.125
+24,"('elements', 'planets', 'signs')",0.1245
+55,"('planets', 'personality', 'signs', 'horoscope_words')",0.124
+60,"('elements', 'planets', 'personality', 'signs', 'horoscope_words')",0.1235
+53,"('planets', 'meanings', 'personality', 'horoscope_words')",0.1235
+27,"('elements', 'meanings', 'signs')",0.1215
